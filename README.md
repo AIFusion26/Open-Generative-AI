@@ -7,6 +7,17 @@
 
 **Community:** Join [Discord](https://discord.gg/tANKJkHck) for discussions and support
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=kT1CO4BYV3A"><img src="docs/assets/video-43-thumbnail.png" alt="Free AI Image Generator — Truly Unlimited, Open Source, No Watermark" width="640"></a>
+</p>
+<p align="center"><a href="https://www.youtube.com/watch?v=kT1CO4BYV3A"><b>📺 Free AI Image Generator (Truly Unlimited, Open Source, No Watermark) →</b></a></p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YhHHut-pDOY"><img src="docs/assets/video-23-thumbnail.png" alt="Uncensored AI Image & Video Generator — Free & Open Source (500+ Models)" width="640"></a>
+</p>
+<p align="center"><a href="https://www.youtube.com/watch?v=YhHHut-pDOY"><b>📺 Uncensored AI Image & Video Generator — Free & Open Source (500+ Models) →</b></a></p>
+
+
 <p align="center"><a href="https://youtu.be/gO4HszsAuc4"><img src="https://i.ytimg.com/vi/gO4HszsAuc4/maxresdefault.jpg" width="720"></a></p>
 <p align="center"><a href="https://youtu.be/gO4HszsAuc4"><b>▶ Watch: Stop Paying Full Price for AI Videos You Hate — Seedance 2.5 Draft Mode </b></a></p>
 
@@ -44,6 +55,13 @@ Consumer AI image/video platforms almost all run on paid monthly subscriptions �
 *(Figures are approximate, general-market ranges and change over time — check each platform's current pricing page before quoting them.)* With MuAPI White Label, you set these numbers yourself for your own end users — the subscription revenue is yours.
 
 ---
+
+## API examples and model references
+
+- [OpenAI API examples](https://github.com/Anil-matcha/OpenAI-API) — GPT Image, Sora, and GPT endpoints through Muapi.
+- [Google Gemini Media API examples](https://github.com/Anil-matcha/Google-Gemini-Media-API) — Nano Banana, Imagen, Veo, Gemini Omni, and speech endpoints.
+- [MiniMax Media API examples](https://github.com/Anil-matcha/MiniMax-Media-API) — Hailuo, H3 Max, speech, and music workflows.
+- [Kling Video API examples](https://github.com/Anil-matcha/Kling-Video-API) — Kling text-to-video, image-to-video, and motion control.
 
 ## Related Projects
 
