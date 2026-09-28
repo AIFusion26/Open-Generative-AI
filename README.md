@@ -7,19 +7,9 @@
 
 **Community:** Join [Discord](https://discord.gg/tANKJkHck) for discussions and support
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=kT1CO4BYV3A"><img src="docs/assets/video-43-thumbnail.png" alt="Free AI Image Generator — Truly Unlimited, Open Source, No Watermark" width="640"></a>
-</p>
-<p align="center"><a href="https://www.youtube.com/watch?v=kT1CO4BYV3A"><b>📺 Free AI Image Generator (Truly Unlimited, Open Source, No Watermark) →</b></a></p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YhHHut-pDOY"><img src="docs/assets/video-23-thumbnail.png" alt="Uncensored AI Image & Video Generator — Free & Open Source (500+ Models)" width="640"></a>
-</p>
-<p align="center"><a href="https://www.youtube.com/watch?v=YhHHut-pDOY"><b>📺 Uncensored AI Image & Video Generator — Free & Open Source (500+ Models) →</b></a></p>
-
-
-<p align="center"><a href="https://youtu.be/gO4HszsAuc4"><img src="https://i.ytimg.com/vi/gO4HszsAuc4/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/gO4HszsAuc4"><b>▶ Watch: Stop Paying Full Price for AI Videos You Hate — Seedance 2.5 Draft Mode </b></a></p>
+<p align="center"><a href="https://youtu.be/8Ua5lRiePFg"><img src="https://i.ytimg.com/vi/8Ua5lRiePFg/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/8Ua5lRiePFg"><b>▶ Watch: How to Access Kling 4.0 API - Best Alternative to Seedance 2 </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
