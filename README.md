@@ -65,7 +65,7 @@ This is a curated set of high-value hubs, popular distribution tools, and model-
 - [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) — compare image models by API, price, and quality.
 - [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Open-source Opus Clip alternative application.
 - [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) — Ppen-source autonomous AI design agent.
-- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — Agent-ready skills for driving generative-media workflows.
+- [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — Agent-ready skills for driving generative-media workflows.
 - [Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) — Python SDK for Seedance 2.5 video generation.
 
 ## 🌐 Try it Online — No Install Required
