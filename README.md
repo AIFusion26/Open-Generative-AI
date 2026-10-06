@@ -8,8 +8,8 @@
 **Community:** Join [Discord](https://discord.gg/tANKJkHck) for discussions and support
 
 
-<p align="center"><a href="https://youtu.be/ZGDImpmyHVo"><img src="https://i.ytimg.com/vi/ZGDImpmyHVo/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/ZGDImpmyHVo"><b>▶ Watch: Best Free Uncensored AI Models 2026 (No GPU) </b></a></p>
+<p align="center"><a href="https://youtu.be/10Ep2pmfyVI"><img src="https://i.ytimg.com/vi/10Ep2pmfyVI/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/10Ep2pmfyVI"><b>▶ Watch: How to Use the Nano Banana 2.1 API (Step-by-Step Guide) </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
